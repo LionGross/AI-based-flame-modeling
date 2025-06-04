@@ -1,0 +1,3 @@
+https://python.plainenglish.io/building-the-foundations-a-step-by-step-guide-to-implementing-multi-layer-perceptrons-in-python-51ebd9d7ecbe
+https://en.wikipedia.org/wiki/Coefficient_of_determination
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html
